@@ -1,0 +1,10 @@
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.deps.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.pdb
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.pdb

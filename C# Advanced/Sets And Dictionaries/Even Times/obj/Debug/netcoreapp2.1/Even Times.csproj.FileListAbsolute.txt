@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\bin\Debug\netcoreapp2.1\Even Times.deps.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\bin\Debug\netcoreapp2.1\Even Times.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\bin\Debug\netcoreapp2.1\Even Times.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\bin\Debug\netcoreapp2.1\Even Times.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\bin\Debug\netcoreapp2.1\Even Times.pdb
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\obj\Debug\netcoreapp2.1\Even Times.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\obj\Debug\netcoreapp2.1\Even Times.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\obj\Debug\netcoreapp2.1\Even Times.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\obj\Debug\netcoreapp2.1\Even Times.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\obj\Debug\netcoreapp2.1\Even Times.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Even Times\obj\Debug\netcoreapp2.1\Even Times.pdb

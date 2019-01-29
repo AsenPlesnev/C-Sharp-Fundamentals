@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\obj\Debug\netcoreapp2.1\Avarage Students Grade.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\obj\Debug\netcoreapp2.1\Avarage Students Grade.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\obj\Debug\netcoreapp2.1\Avarage Students Grade.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\obj\Debug\netcoreapp2.1\Avarage Students Grade.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\bin\Debug\netcoreapp2.1\Avarage Students Grade.deps.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\bin\Debug\netcoreapp2.1\Avarage Students Grade.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\bin\Debug\netcoreapp2.1\Avarage Students Grade.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\bin\Debug\netcoreapp2.1\Avarage Students Grade.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\bin\Debug\netcoreapp2.1\Avarage Students Grade.pdb
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\obj\Debug\netcoreapp2.1\Avarage Students Grade.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Avarage Students Grade\obj\Debug\netcoreapp2.1\Avarage Students Grade.pdb

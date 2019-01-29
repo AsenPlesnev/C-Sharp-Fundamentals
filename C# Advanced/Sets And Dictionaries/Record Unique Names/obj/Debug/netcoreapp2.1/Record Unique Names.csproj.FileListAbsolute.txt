@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.deps.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.pdb
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.pdb

@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.deps.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.pdb
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.pdb
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.csprojAssemblyReference.cache

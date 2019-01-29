@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\NyonBG\source\repos\Sets And Dictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb
