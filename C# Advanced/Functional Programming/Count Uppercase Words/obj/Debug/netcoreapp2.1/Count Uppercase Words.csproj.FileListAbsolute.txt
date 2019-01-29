@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.deps.json
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.dll
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.pdb
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.dll
+C:\Users\NyonBG\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.pdb
