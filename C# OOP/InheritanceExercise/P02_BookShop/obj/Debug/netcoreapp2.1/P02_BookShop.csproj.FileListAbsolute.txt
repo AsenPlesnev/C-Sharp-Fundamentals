@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\bin\Debug\netcoreapp2.1\P02_BookShop.deps.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\bin\Debug\netcoreapp2.1\P02_BookShop.runtimeconfig.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\bin\Debug\netcoreapp2.1\P02_BookShop.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\bin\Debug\netcoreapp2.1\P02_BookShop.dll
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\bin\Debug\netcoreapp2.1\P02_BookShop.pdb
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\obj\Debug\netcoreapp2.1\P02_BookShop.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\obj\Debug\netcoreapp2.1\P02_BookShop.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\obj\Debug\netcoreapp2.1\P02_BookShop.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\obj\Debug\netcoreapp2.1\P02_BookShop.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\obj\Debug\netcoreapp2.1\P02_BookShop.dll
+C:\Users\NyonBG\source\repos\InheritanceExercise\P02_BookShop\obj\Debug\netcoreapp2.1\P02_BookShop.pdb

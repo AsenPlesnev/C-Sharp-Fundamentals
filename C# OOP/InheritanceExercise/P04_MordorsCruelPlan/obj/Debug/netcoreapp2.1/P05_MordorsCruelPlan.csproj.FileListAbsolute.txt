@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\bin\Debug\netcoreapp2.1\P05_MordorsCruelPlan.deps.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\bin\Debug\netcoreapp2.1\P05_MordorsCruelPlan.runtimeconfig.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\bin\Debug\netcoreapp2.1\P05_MordorsCruelPlan.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\bin\Debug\netcoreapp2.1\P05_MordorsCruelPlan.dll
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\bin\Debug\netcoreapp2.1\P05_MordorsCruelPlan.pdb
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\obj\Debug\netcoreapp2.1\P05_MordorsCruelPlan.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\obj\Debug\netcoreapp2.1\P05_MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\obj\Debug\netcoreapp2.1\P05_MordorsCruelPlan.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\obj\Debug\netcoreapp2.1\P05_MordorsCruelPlan.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\obj\Debug\netcoreapp2.1\P05_MordorsCruelPlan.dll
+C:\Users\NyonBG\source\repos\InheritanceExercise\P04_MordorsCruelPlan\obj\Debug\netcoreapp2.1\P05_MordorsCruelPlan.pdb

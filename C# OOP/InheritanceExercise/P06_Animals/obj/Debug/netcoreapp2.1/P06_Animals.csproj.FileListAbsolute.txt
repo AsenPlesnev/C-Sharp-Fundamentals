@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\bin\Debug\netcoreapp2.1\P06_Animals.deps.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\bin\Debug\netcoreapp2.1\P06_Animals.runtimeconfig.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\bin\Debug\netcoreapp2.1\P06_Animals.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\bin\Debug\netcoreapp2.1\P06_Animals.dll
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\bin\Debug\netcoreapp2.1\P06_Animals.pdb
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\obj\Debug\netcoreapp2.1\P06_Animals.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\obj\Debug\netcoreapp2.1\P06_Animals.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\obj\Debug\netcoreapp2.1\P06_Animals.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\obj\Debug\netcoreapp2.1\P06_Animals.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\obj\Debug\netcoreapp2.1\P06_Animals.dll
+C:\Users\NyonBG\source\repos\InheritanceExercise\P06_Animals\obj\Debug\netcoreapp2.1\P06_Animals.pdb
