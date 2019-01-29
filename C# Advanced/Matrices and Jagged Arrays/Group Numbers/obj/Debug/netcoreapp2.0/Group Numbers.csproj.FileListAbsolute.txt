@@ -1,0 +1,10 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.pdb

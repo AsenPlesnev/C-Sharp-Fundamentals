@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.pdb

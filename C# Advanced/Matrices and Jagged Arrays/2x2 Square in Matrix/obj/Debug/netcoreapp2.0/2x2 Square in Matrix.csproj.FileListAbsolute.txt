@@ -1,0 +1,10 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\bin\Debug\netcoreapp2.0\2x2 Square in Matrix.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\bin\Debug\netcoreapp2.0\2x2 Square in Matrix.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\bin\Debug\netcoreapp2.0\2x2 Square in Matrix.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\bin\Debug\netcoreapp2.0\2x2 Square in Matrix.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\bin\Debug\netcoreapp2.0\2x2 Square in Matrix.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\obj\Debug\netcoreapp2.0\2x2 Square in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\obj\Debug\netcoreapp2.0\2x2 Square in Matrix.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\obj\Debug\netcoreapp2.0\2x2 Square in Matrix.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\obj\Debug\netcoreapp2.0\2x2 Square in Matrix.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\2x2 Square in Matrix\obj\Debug\netcoreapp2.0\2x2 Square in Matrix.pdb

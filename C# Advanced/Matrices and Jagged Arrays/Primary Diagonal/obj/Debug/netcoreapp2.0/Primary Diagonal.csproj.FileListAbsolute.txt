@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\bin\Debug\netcoreapp2.0\Primary Diagonal.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\bin\Debug\netcoreapp2.0\Primary Diagonal.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\bin\Debug\netcoreapp2.0\Primary Diagonal.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\bin\Debug\netcoreapp2.0\Primary Diagonal.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\bin\Debug\netcoreapp2.0\Primary Diagonal.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\obj\Debug\netcoreapp2.0\Primary Diagonal.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\obj\Debug\netcoreapp2.0\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\obj\Debug\netcoreapp2.0\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\obj\Debug\netcoreapp2.0\Primary Diagonal.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\obj\Debug\netcoreapp2.0\Primary Diagonal.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Primary Diagonal\obj\Debug\netcoreapp2.0\Primary Diagonal.pdb

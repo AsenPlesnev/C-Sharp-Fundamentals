@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\bin\Debug\netcoreapp2.0\Rubik's Matrix.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\bin\Debug\netcoreapp2.0\Rubik's Matrix.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\bin\Debug\netcoreapp2.0\Rubik's Matrix.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\bin\Debug\netcoreapp2.0\Rubik's Matrix.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\bin\Debug\netcoreapp2.0\Rubik's Matrix.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\obj\Debug\netcoreapp2.0\Rubik's Matrix.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\obj\Debug\netcoreapp2.0\Rubik's Matrix.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\obj\Debug\netcoreapp2.0\Rubik's Matrix.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\obj\Debug\netcoreapp2.0\Rubik's Matrix.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\obj\Debug\netcoreapp2.0\Rubik's Matrix.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Rubik's Matrix\obj\Debug\netcoreapp2.0\Rubik's Matrix.pdb

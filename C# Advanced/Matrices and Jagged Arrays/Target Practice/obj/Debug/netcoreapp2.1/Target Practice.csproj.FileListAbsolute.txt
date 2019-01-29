@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.pdb

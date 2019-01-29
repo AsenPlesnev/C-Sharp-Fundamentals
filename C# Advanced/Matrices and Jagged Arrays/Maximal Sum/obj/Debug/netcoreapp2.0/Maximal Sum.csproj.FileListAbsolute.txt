@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\bin\Debug\netcoreapp2.0\Maximal Sum.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Maximal Sum\obj\Debug\netcoreapp2.0\Maximal Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\bin\Debug\netcoreapp2.1\Parking System.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\bin\Debug\netcoreapp2.1\Parking System.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\bin\Debug\netcoreapp2.1\Parking System.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\bin\Debug\netcoreapp2.1\Parking System.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\bin\Debug\netcoreapp2.1\Parking System.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\obj\Debug\netcoreapp2.1\Parking System.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\obj\Debug\netcoreapp2.1\Parking System.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\obj\Debug\netcoreapp2.1\Parking System.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\obj\Debug\netcoreapp2.1\Parking System.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\obj\Debug\netcoreapp2.1\Parking System.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Parking System\obj\Debug\netcoreapp2.1\Parking System.pdb

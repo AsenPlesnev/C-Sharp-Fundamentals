@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.deps.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.0\Matrix of Palindromes.pdb
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.dll
+C:\Users\NyonBG\source\repos\Matrices and Jagged Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.0\Matrix of Palindromes.pdb
