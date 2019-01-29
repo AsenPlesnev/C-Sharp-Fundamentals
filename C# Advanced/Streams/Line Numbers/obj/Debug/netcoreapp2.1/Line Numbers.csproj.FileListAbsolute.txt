@@ -1,0 +1,10 @@
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.deps.json
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.dll
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.pdb
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.dll
+C:\Users\NyonBG\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.pdb

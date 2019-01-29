@@ -1,0 +1,10 @@
+C:\Users\NyonBG\source\repos\Streams\Slicing File\bin\Debug\netcoreapp2.1\Slicing File.deps.json
+C:\Users\NyonBG\source\repos\Streams\Slicing File\bin\Debug\netcoreapp2.1\Slicing File.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Streams\Slicing File\bin\Debug\netcoreapp2.1\Slicing File.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Streams\Slicing File\bin\Debug\netcoreapp2.1\Slicing File.dll
+C:\Users\NyonBG\source\repos\Streams\Slicing File\bin\Debug\netcoreapp2.1\Slicing File.pdb
+C:\Users\NyonBG\source\repos\Streams\Slicing File\obj\Debug\netcoreapp2.1\Slicing File.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Streams\Slicing File\obj\Debug\netcoreapp2.1\Slicing File.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Streams\Slicing File\obj\Debug\netcoreapp2.1\Slicing File.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Streams\Slicing File\obj\Debug\netcoreapp2.1\Slicing File.dll
+C:\Users\NyonBG\source\repos\Streams\Slicing File\obj\Debug\netcoreapp2.1\Slicing File.pdb

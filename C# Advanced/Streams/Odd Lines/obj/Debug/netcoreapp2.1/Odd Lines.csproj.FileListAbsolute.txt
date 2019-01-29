@@ -1,0 +1,11 @@
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.deps.json
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.runtimeconfig.json
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.runtimeconfig.dev.json
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.dll
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\bin\Debug\netcoreapp2.1\Odd Lines.pdb
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.csprojAssemblyReference.cache
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.AssemblyInfoInputs.cache
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.AssemblyInfo.cs
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.dll
+C:\Users\NyonBG\source\repos\Streams\Odd Lines\obj\Debug\netcoreapp2.1\Odd Lines.pdb
